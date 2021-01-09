@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="KG_text">"Enter Your Weight in KG : "</string>
+    <string name="Length_text">Enter Your Length in CM :</string>
+    <string name="BMI_text">Get BMI</string>
+    <string name="result_text">Result</string>
+</resources>
